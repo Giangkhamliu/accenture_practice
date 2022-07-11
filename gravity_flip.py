@@ -14,3 +14,4 @@ def flip(d,a):
     return b
 print(flip("R",[3,2,1,2]))
 print(flip("L",[1,4,5,3,5]))
+
